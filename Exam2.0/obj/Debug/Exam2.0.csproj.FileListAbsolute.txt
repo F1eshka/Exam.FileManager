@@ -1,0 +1,14 @@
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\bin\Debug\Exam2.0.exe.config
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\bin\Debug\Exam2.0.exe
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\bin\Debug\Exam2.0.pdb
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\obj\Debug\Exam2.0.csproj.AssemblyReference.cache
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\obj\Debug\MainWindow.baml
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\obj\Debug\MainWindow.g.cs
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\obj\Debug\App.g.cs
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\obj\Debug\Exam2.0_MarkupCompile.cache
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\obj\Debug\Exam2.0.g.resources
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\obj\Debug\Exam2._0.Properties.Resources.resources
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\obj\Debug\Exam2.0.csproj.GenerateResource.cache
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\obj\Debug\Exam2.0.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\obj\Debug\Exam2.0.exe
+C:\Users\Rog\source\repos\Exam2.0\Exam2.0\obj\Debug\Exam2.0.pdb
